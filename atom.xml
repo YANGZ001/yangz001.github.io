@@ -5,9 +5,9 @@
   <subtitle>do you wanna build a snowman?</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://yangz001.github.io/"/>
   <updated>2019-10-29T11:58:34.653Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://yangz001.github.io/</id>
   
   <author>
     <name>Yang Zhang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/10/29/hello-world/"/>
-    <id>http://yoursite.com/2019/10/29/hello-world/</id>
+    <link href="https://yangz001.github.io/2019/10/29/hello-world/"/>
+    <id>https://yangz001.github.io/2019/10/29/hello-world/</id>
     <published>2019-10-29T11:58:34.653Z</published>
     <updated>2019-10-29T11:58:34.653Z</updated>
     
